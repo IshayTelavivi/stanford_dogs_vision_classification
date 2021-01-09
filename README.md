@@ -22,4 +22,4 @@ The classifications folder contains the following selected notebooks:
 5. **dogs_IT_02.05.20_RESNET-Copy1**: using a pre-trained RESNET net
 
 The object_detection folder contains one notebook:
-- **prepare_data_for_OD_IT_19.9.2020**: creating the daateset class and the rest of the features for a basic run, using Faster R-CNN net
+- **prepare_data_for_OD_IT_19.9.2020**: creating the daateset class and the rest of the features for a basic run, using Fast R-CNN net
